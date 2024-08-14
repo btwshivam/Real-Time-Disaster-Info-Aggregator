@@ -9,6 +9,9 @@ This project aims to develop a software solution for real-time aggregation and c
 - Intuitive user dashboard with real-time updates
 - Alert system for critical information
 
+## License
+Real-Time Disaster Information Aggregation is released under the MIT License. See the [LICENSE](https://github.com/btwshivam/Real-Time-Disaster-Info-Aggregator/blob/main/LICENSE) file for more information.
+
 ## Installation
 - [Fork](https://github.com/btwshivam/Real-Time-Disaster-Info-Aggregator/fork) and clone this repo:
 - Your newly forked repository can be cloned locally using `git clone <YOUR FORKED REPO URL>`.
